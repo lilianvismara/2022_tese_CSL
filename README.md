@@ -15,7 +15,7 @@ EXPERIMENTO - Delineamento Inteiramente Casualizado (DIC)
 EXPERIMENTO - Parcelas subdivididas no tempo em DBC
 * ANAVA - teste t    
 
-#### Agente de controle biológico atua como indutor de resistência na soja?
+#### O agente de controle biológico atua como indutor de resistência na soja?
 EXPERIMENTO - Parcelas subdivididas no tempo em DIC
 * ANAVA
                       
