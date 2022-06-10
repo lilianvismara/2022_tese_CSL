@@ -17,9 +17,11 @@ EXPERIMENTO - Parcelas subdivididas no tempo em DBC
 
 #### Agente de controle biológico atua como indutor de resistência na soja?
 EXPERIMENTO - Parcelas subdivididas no tempo em DIC
+* ANAVA
                       
 #### Qual o potencial de uso de agente de controle biológico sobre o oídio na soja?
 EXPERIMENTO - Parcelas subdivididas no tempo em DBC
+* ANAVA - Análise de Variância
 
 ---
 
