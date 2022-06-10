@@ -8,15 +8,12 @@ Dados da produção. Disponível em: (em breve).
 
 #### Qual é a performance da germinação da soja in vitro na presença de agente de controle biológico de agroecossistemas
 EXPERIMENTO - Delineamento Inteiramente Casualizado (DIC)
-
-              ANAVA - teste t
-
-              teste de Friedman (para vigor)
+* ANAVA - teste t
+* teste de Friedman (para vigor)
             
 #### Qual é a performance fisiológica da soja em casa de vegetação na presença de agente de controle biológico de agroecossistemas
 EXPERIMENTO - Parcelas subdivididas no tempo em DBC
-
-              ANAVA - teste t    
+* ANAVA - teste t    
 
 #### Agente de controle biológico atua como indutor de resistência na soja?
 EXPERIMENTO - Parcelas subdivididas no tempo em DIC
